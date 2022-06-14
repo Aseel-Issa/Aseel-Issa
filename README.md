@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Aseel
+#### I am junior full-stack engineer
+![I am junior full-stack engineer](https://www.srishticampus.com/packageImages/banner.jpg)
+
+will add it later
+
+Skills:  REACT / JS / HTML / CSS / Node js/ Mongo / SQL / Java
+
+- 🔭 I’m currently working on this page. 
 
 <!--
 **Aseel-Issa/Aseel-Issa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
