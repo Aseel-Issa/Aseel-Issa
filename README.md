@@ -4,9 +4,9 @@
 
 will add it later
 
-Skills:  REACT / JS / HTML / CSS / Node js/ Mongo / SQL / Java
+Skills:  REACT / JS / HTML / CSS / Node js/ Mongo / SQL / Java / Java Spring / JQuery / Handlebars
 
-- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Python/Dejango. 
 
 <!--
 **Aseel-Issa/Aseel-Issa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
