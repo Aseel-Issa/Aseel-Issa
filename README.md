@@ -2,9 +2,9 @@
 #### I am junior full-stack engineer
 ![I am junior full-stack engineer](https://www.srishticampus.com/packageImages/banner.jpg)
 
-will add it later
+I really enjoy programming, especially building new apps with REACT :), but I'm also passionate in learning new concepts and technologies in the filed, I always lookup to improve myself and gain more knowledge.
 
-- 🌱 I’m currently learning Python/Dejango. 
+- 🌱 I’m currently learning Python/Django. 
 ## Languages and tools:
 - <img src="https://user-images.githubusercontent.com/33163148/181013897-7eb2701c-5bb7-4c00-8c42-302dcd53b99f.png" width="20" height="20"> REACT
 - <img src="https://user-images.githubusercontent.com/33163148/181015130-a9e2269e-eeff-4b52-a233-c8ec8ba66048.png" width="50" height="30"> JS / HTML / CSS 
